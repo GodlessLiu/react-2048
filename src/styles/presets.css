@@ -1,0 +1,75 @@
+.bg-303030{
+    background-color: #303030;
+}
+
+.bg-2196F3{
+    background-color: #2196F3;
+}
+.bg-4CAF50{
+    background-color: #4CAF50;
+}
+.bg-FFC107{
+    background-color: #FFC107;
+}
+.bg-FF9800{
+    background-color: #FF9800;
+}
+.bg-FF5722{
+    background-color: #FF5722;
+}
+.bg-795548{
+    background-color: #795548;
+}
+.bg-607D8B{
+    background-color: #607D8B;
+
+}
+.bg-9C27B0{
+    background-color: #9C27B0;
+
+}
+.bg-673AB7{
+    background-color: #673AB7;
+}
+.bg-3F51B5{
+    background-color: #3F51B5;
+}
+.bg-E91E63{
+    background-color: #E91E63;
+}
+
+.grid-cols-4{
+    grid-template-columns: repeat(4, minmax(0, 1fr));	
+}
+.grid-cols-5{
+
+    grid-template-columns: repeat(5, minmax(0, 1fr));	
+}
+.grid-cols-6{
+
+    grid-template-columns: repeat(6, minmax(0, 1fr));	
+}
+.grid-cols-7{
+
+    grid-template-columns: repeat(7, minmax(0, 1fr));	
+}
+.grid-cols-8{
+
+    grid-template-columns: repeat(8, minmax(0, 1fr));	
+}
+.grid-cols-9{
+
+    grid-template-columns: repeat(9, minmax(0, 1fr));	
+}
+.grid-cols-10{
+
+    grid-template-columns: repeat(10, minmax(0, 1fr));	
+}
+.grid-cols-11{
+    
+    grid-template-columns: repeat(11, minmax(0, 1fr));	
+}
+.grid-cols-12{
+
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+}
